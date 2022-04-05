@@ -1,5 +1,6 @@
-Git init --> initialized a new git repo
+Git init --> initialized a new  git local repo
 git add index.html -->add git files in staging area 
 git status ---> to track record the of committed and uncommitted files 
-git commit 
-
+git add . --> to include all files in staging area 
+git commit -m "first coomit" --> to records the changes to the file in local repo 
+git status --> showed the current working branch and changes not staged for commit, I have commited all files
