@@ -1,0 +1,5 @@
+Git init --> initialized a new git repo
+git add index.html -->add git files in staging area 
+git status ---> to track record the of committed and uncommitted files 
+git commit 
+
