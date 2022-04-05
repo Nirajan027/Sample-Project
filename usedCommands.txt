@@ -1,6 +1,18 @@
+//Git init,commit,add
 Git init --> initialized a new  git local repo
 git add index.html -->add git files in staging area 
 git status ---> to track record the of committed and uncommitted files 
 git add . --> to include all files in staging area 
 git commit -m "first coomit" --> to records the changes to the file in local repo 
 git status --> showed the current working branch and changes not staged for commit, I have commited all files
+added a welcome.html file, git add welcome.html //still to be commited //doubtful here 
+
+Branching 
+git branch --> check present branches, only master is present 
+git branch branchname--> create a branch
+git branch sample-branch --> creates a branch named sample-branch
+git checkout sample-branch --> move to the sample-branch 
+M       usedCommands.txt ??
+A       welcome.html ??
+made changes in welcome.html file
+git add . -->
