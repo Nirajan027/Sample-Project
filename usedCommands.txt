@@ -68,4 +68,4 @@ git branch -d nb-01 --> not letting to delete as branch is fully merged
 
 added all used command directly to usedcommands file in remote repo and commited changes. 
 
-
+modified the usedcommands file and pushed to remoted repo.()
